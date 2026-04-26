@@ -1,4 +1,4 @@
-package DTO;
+package com.mariem.TP_API_REST.DTO;
 
 public class StudentDTO {
     private String name;
